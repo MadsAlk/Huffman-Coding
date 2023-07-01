@@ -6,7 +6,7 @@
   </p>
   <h2>Project Implementation</h2>
   <p>
-    In this project, I have implemented the Huffman coding algorithm from scratch, including all the necessary data structures.
+    In this project, I have implemented the Huffman coding algorithm from scratch using Java, including all the necessary data structures.
     The program utilizes a manually implemented priority queue and a binary tree to achieve file compression and decompression.
   </p>
   <h2>Summary of Processing</h2>

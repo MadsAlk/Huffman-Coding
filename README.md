@@ -22,6 +22,6 @@
   </ol>
 
   <div style="display: flex;">
-  <img src="screenshots/sc.PNG" alt="GUI" width="200" style="margin-right: 10px;">
-  <img src="screenshots/test.PNG" alt="result" width="200" style="margin-right: 10px;">
+  <img src="screenshots/sc.PNG" alt="GUI" width="600" style="margin-right: 10px;">
+  <img src="screenshots/test.PNG" alt="result" width="600" style="margin-right: 10px;">
 </div>
